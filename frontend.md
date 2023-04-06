@@ -15,7 +15,8 @@
 1. Website must developed by using above structure
 2. Website must developed by using HTML, JavaScript, CSS
 3. Website must developed by using existing template styles and scripts
-4. All of response must be JSON Object type
+4. Other plugins, Allowed!
+5. All of response must be JSON Object type
 
 ## Webiste
 
