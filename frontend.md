@@ -20,6 +20,11 @@
 
 ## Webiste
 
+### Endpoint
+*for full stack developer, using `http://localhost:3000`*
+   ```
+   http://128.199.80.110:3000
+   ```
 ### 1. Table for show items
    get data from API and show (name, price, quantity) data on table
    #### Method: `GET`
