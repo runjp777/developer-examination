@@ -1,8 +1,8 @@
 # Recruitment Examination (Backend)
-* Develop API by using following structure and requirement
+* Develop a simple API by using following structure and requirement
 
 # API Structure
-    api                                 # API Folder
+    api                                 # API folder
     └─── app.js                         # API entry point
          └─── configs                   # Configuration related stuff
          └─── controllers               # Controllers for all the endpoints
@@ -12,7 +12,7 @@
 - - -
 
 # Requirements
-## API 
+## Overall 
 1. API must developed by using above API structure
 2. API must developed by using NodeJs
 3. Required modules
@@ -21,7 +21,7 @@
 4. API must start with port `3000`
 5. All of response must be JSON Object type
 
-## System
+## API
 
 ### 1. Get items
    API to get list of data items (collection `item_data`)
