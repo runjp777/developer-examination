@@ -16,7 +16,7 @@
 2. Website must developed by using HTML, JavaScript, CSS
 3. Website must developed by using existing template styles and scripts
 4. Other plugins, Allowed!
-5. All of response must be JSON Object type
+5. Response of all API must be return to JSON Object type
 
 ## Webiste
 
